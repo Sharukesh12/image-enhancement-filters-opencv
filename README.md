@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By:
 
-- **Name:** Adhithya K  
-- **Register No:** 2305002001
+- **Name:** Sharukesh T  
+- **Register No:** 2305002022
 
 ---
 
